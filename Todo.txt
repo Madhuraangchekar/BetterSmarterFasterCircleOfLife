@@ -1,0 +1,7 @@
+12/6/22
+- Save graph  -- Done
+- Calc distance dictionary -- done
+- Test utility expression -- Done
+- Optimize utility expression -- Done
+-Try for different graphs
+- Develop U* agent 
